@@ -1,4 +1,4 @@
-GOLF GTI goes OUTRUN
+GOLF GTI celebrates 50 Years in OUTRUN style game!
 ===
 
 Copyright (c) 2018 Nathaniel Wroblewski
