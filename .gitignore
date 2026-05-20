@@ -1,0 +1,4 @@
+.DS_Store
+# /public/images  # Commented out to allow committing car images
+/public/audio
+/public/fonts
