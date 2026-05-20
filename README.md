@@ -1,4 +1,4 @@
-C A L I F O R N I A goes O U T R U N
+GOLF GTI goes OUTRUN
 ===
 
 Copyright (c) 2018 Nathaniel Wroblewski
